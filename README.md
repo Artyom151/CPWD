@@ -40,7 +40,7 @@ CPWD - это консольная утилита с графическим ин
 
 ```bash
 git clone https://github.com/Artyom151/CPWD.git
-cd cpwd
+cd CPWD
 dotnet publish -c Release
 ```
 
