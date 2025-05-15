@@ -32,14 +32,14 @@ CPWD - это консольная утилита с графическим ин
 
 ### Способ 1: Готовый исполняемый файл
 
-1. Скачайте последний релиз из раздела [Releases](https://github.com/your-username/cpwd/releases)
+1. Скачайте последний релиз из раздела [Releases](https://github.com/Artyom151/CPWD/releases)
 2. Распакуйте архив
 3. Запустите `CPWD.exe`
 
 ### Способ 2: Сборка из исходного кода
 
 ```bash
-git clone https://github.com/your-username/cpwd.git
+git clone https://github.com/Artyom151/CPWD.git
 cd cpwd
 dotnet publish -c Release
 ```
